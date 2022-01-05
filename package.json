@@ -76,6 +76,7 @@
     "eslint-check": "eslint --print-config .eslintrc.js | eslint-config-prettier-check",
     "test": "jest",
     "coveralls": "cat coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js",
+    "prepare": "nps build",
     "watch": "npm-watch"
   },
 
