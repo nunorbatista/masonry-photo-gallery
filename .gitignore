@@ -20,6 +20,7 @@ coverage.html
 
 # Dependency directory
 node_modules
+package-lock.json
 
 # Editor and other tmp files
 *.swp
